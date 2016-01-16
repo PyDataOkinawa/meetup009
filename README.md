@@ -7,12 +7,15 @@
 #### PyData.Okinawaについての紹介
 by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
-- PyData.Okinawa Meetup 009 - 01 Introduction to PyData.Okinawa.ipynb
+- [PyData.Okinawa Meetup 009 - 01 Introduction to PyData.Okinawa.ipynb](https://github.com/PyDataOkinawa/meetup009/blob/master/PyData.Okinawa%20Meetup%20009%20-%2001%20Introduction%20to%20PyData.Okinawa.ipynb)
 
 ## 養成読本　第２部　特集２ Pythonによる機械学習入門
 
 - 発表者：大塚
 - 9:30-10:15
-- 資料
+- 発表用資料：[深層学習最前線](https://github.com/PyDataOkinawa/meetup009/blob/master/deep_learning_okinawa.pdf)
 
 ## コーディングセッション
+
+- Chainer入門（v1.5用）：[Introduction to Chainer v1.5.ipynb](https://github.com/PyDataOkinawa/meetup009/blob/master/chainer_tutorial/Introduction%20to%20Chainer%20v1.5.ipynb)
+- Chainerで多層パーセプトロンを作ろう：[chainer_mnist.ipynb](https://github.com/PyDataOkinawa/meetup009/blob/master/chainer_tutorial/mnist/chainer_mnist.ipynb)
