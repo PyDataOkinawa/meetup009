@@ -9,7 +9,7 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
 - [PyData.Okinawa Meetup 009 - 01 Introduction to PyData.Okinawa.ipynb](https://github.com/PyDataOkinawa/meetup009/blob/master/PyData.Okinawa%20Meetup%20009%20-%2001%20Introduction%20to%20PyData.Okinawa.ipynb)
 
-## 養成読本　第２部　特集２ Pythonによる機械学習入門
+## 養成読本　第１部　特集４　深層学習最前線
 
 - 発表者：大塚
 - 9:30-10:15
